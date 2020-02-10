@@ -1,0 +1,12 @@
+{
+    "version": "8u241",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/wm26hua/appBucket/apps/oraclejdk-8u241.7z"
+        }
+    },
+    "env_add_path": "bin",
+    "env_set": {
+        "JAVA_HOME": "$dir"
+    }
+}
