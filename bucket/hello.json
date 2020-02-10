@@ -1,5 +1,5 @@
 {
     "version": "1.0",
-    "url": "C://Users//wm26hua//Desktop//scoop-bucket//my-bucket//apps//hello.ps1",
+    "url": "https://github.com/wm26hua/appBucket/apps/hello.ps1",
     "bin": "hello.ps1"
 }
