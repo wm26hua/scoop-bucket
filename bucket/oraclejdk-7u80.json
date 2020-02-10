@@ -1,0 +1,12 @@
+{
+    "version": "7u80",
+    "architecture": {
+        "64bit": {
+            "url": "http://images-tszx.test.upcdn.net/bucket/oraclejdk-7u80.7z"
+        }
+    },
+    "env_add_path": "bin",
+    "env_set": {
+        "JAVA_HOME": "$dir"
+    }
+}
